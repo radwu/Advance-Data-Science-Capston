@@ -1,5 +1,5 @@
 # IBM Coursera Advanced Data Science Capstone Project
-Repository for the IBM Coursera Advanced Data Science Project by Kostyantyn Kravchenko
+Repository for the IBM Coursera Advanced Data Science Project
 
 ## Predict average spend on Food & Beverages by a holiday resort member
 
